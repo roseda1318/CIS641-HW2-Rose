@@ -8,7 +8,6 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 I am a High School STEAM teacher here to learn how to be a programmer. 
 
-```markdown
 I teach 
 
 - AP-Computer Science Principles
