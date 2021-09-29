@@ -16,7 +16,7 @@ The application that my team is creating is a pixel project that will allow user
 
 Users will have the ability to use the application both online and offline as well as save and accesses their creations at any given time. The shake feature will serve as an eraser to undo the previous action. 
 
-[Team GitHub.io] (https://nessxtojason.github.io/GVSU-CIS641-TEAM657/)
+[Team GitHub.io](https://nessxtojason.github.io/GVSU-CIS641-TEAM657/)
 
 [Everything is fine.](https://ih1.redbubble.net/image.1196523896.0128/st,small,845x845-pad,1000x1000,f8f8f8.jpg)
-[Pigx-elate] (https://punstoppable.com/___image___?url=https%3A%2F%2Fi.redd.it%2Fzf1ufmesnl331.jpg)
+[Pigx-elate](https://punstoppable.com/___image___?url=https%3A%2F%2Fi.redd.it%2Fzf1ufmesnl331.jpg)
