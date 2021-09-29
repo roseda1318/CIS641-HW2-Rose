@@ -1,5 +1,3 @@
-# Danielle Rose
-
 - I love boardgames! Catan anyone?
 - I have a cat but no kids.
 - I have been teaching for 9 years.
